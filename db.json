@@ -1,0 +1,26 @@
+{
+  "usuarios": [
+    {
+      "id": 5,
+      "nome": "João Silva",
+      "matricula": "1",
+      "idade": 30,
+      "cargo": "Desenvolvedor",
+      "tipo_usuario": 2
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "usuario": "admin",
+      "senha": "1234",
+      "tipo": 1
+    },
+    {
+      "id": 2,
+      "usuario": "comum",
+      "senha": "5678",
+      "tipo": 2
+    }
+  ]
+}
